@@ -33,4 +33,4 @@ fwrite(512)
 ```
 
 ### Why is this needed?
-#### O: i don't know :D
+#### A: i don't know :D
